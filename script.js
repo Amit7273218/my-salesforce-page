@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", async function () {
     }
 
     // Salesforce REST API Call (Replace with your actual Salesforce instance URL)
-    const instanceUrl = "https://yourInstance.salesforce.com";
+    const instanceUrl = "https://wise-fox-f978g0-dev-ed.trailblaze.lightning.force.com";
     const accessToken = "YOUR_ACCESS_TOKEN"; // Replace with a valid OAuth access token
 
     try {
